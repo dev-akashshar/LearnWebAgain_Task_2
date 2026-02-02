@@ -15,7 +15,7 @@ This project demonstrates a **functional Login and Register page** using HTML, C
 ## 💻 Project Details
 
 - **Task:** Login page with Register functionality  
-- **Technologies:** HTML | CSS | JavaScript  
+- **Technologies:** HTML | CSS   
 
 ### Features
 
